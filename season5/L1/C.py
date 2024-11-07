@@ -3,6 +3,7 @@ list_space = []
 for i in range(n):
     list_space.append(int(input()))
 
+
 def click_counter(count):
     sum_click = 0
     sum_click += count // 4
